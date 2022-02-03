@@ -1,6 +1,6 @@
 # Deleted Card Testing
 
-![alt text]()
+![alt text](https://github.com/kisahtegar/DeleteCard-Test/blob/main/final.png)
 
 ## Getting Started
 
